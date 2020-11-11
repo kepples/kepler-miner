@@ -1,0 +1,20 @@
+{
+  "name": "thekeplerminer",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "profanities": "^2.12.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
